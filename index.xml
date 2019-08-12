@@ -12,21 +12,14 @@
     
     
     <item>
-      <title>Education</title>
-      <link>https://yenanguan.github.io/pages/education/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yenanguan.github.io/pages/education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Experiences</title>
+      <title>Highlighted Experiences</title>
       <link>https://yenanguan.github.io/pages/experiences/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://yenanguan.github.io/pages/experiences/</guid>
-      <description></description>
+      <description>Evolve Digital Labs ℹ️ time
+-- Business Analyst, Data Science Team Feb 2019 - Present
+ Accomplish market research effectively for clients in various industries, composed of market sizing, competitor insights, user flow and segmentation, and strategy recommendations; present to the client, winning excited feedbacks and deep trusts Collaborate with other teams on their data needs, including developing interactive n-gram visualizations of SERP results using Python and Tableau for content creation, and conducting geographical analysis, keyword research and landing page mapping for SEM/SEO Build Machine Learning and stats models for ad-hoc analysis including Topic Modelling (LDA) to extract topics from product reviews Manage and AB test the Ads campaign, leading to a 150% increase in paid traffic and doubled the conversion rate  Business Solutions Intern, Data Science Team Jan 2018 - Jan 2019</description>
     </item>
     
     <item>
@@ -38,7 +31,7 @@
       <description>Hi!
 Thank you for coming to my website. 🙋
 My name is Diana (Yenan) Guan, analyst in the data science team in a digital marketing company. Here is a snapshot of who I am -
- Exploring my career in applying data techniques in product and growth My interests in data science and telling data stories come from Econometrics course in university Working experiences in industries including digital marketing, healthcare, insurance Every-workday life with Python, R, SQL, Tableau Actively applying statistics &amp;amp; machine learning to innovate on working process Master of Science in Customer Analytics in Washington University, Olin Business School Received First Honours degree in BSc Mathematical Economics and Statistics in University of Birmingham (UK)  Not the end, who am I besides that?</description>
+ Exploring my career in applying data techniques in product and growth My interests in data science and telling data stories come from Econometrics course in university Working experiences in industries including digital marketing, healthcare, insurance Every-workday life with Python, R, SQL, Tableau Actively applying statistics &amp;amp; machine learning to innovate on working process Master of Science in Customer Analytics in Washington University, Olin Business School Received First Class Honours degree in BSc Mathematical Economics and Statistics in University of Birmingham (UK)</description>
     </item>
     
   </channel>
